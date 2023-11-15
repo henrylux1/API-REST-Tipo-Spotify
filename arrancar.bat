@@ -1,0 +1,2 @@
+start cmd.exe /k "cd C:\Program Files\MongoDB\Server\7.0\bin && mongod.exe"
+start cmd.exe /k "cd C:\UNIVERSIDAD\CICLO 8\2023\DESARROLLO WEB\curso desarrollo web\cursos udemy\curso de node js\Api RESTful Tipo Spotify && npm start"
